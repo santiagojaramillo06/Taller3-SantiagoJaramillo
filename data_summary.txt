@@ -1,0 +1,29 @@
+        
+Michelangelo's
+221B Baker Street
+634-5789
+Chocolove McDonell
+        
+
+Análisis de ventas: 16/01/2023 - 16/02/2023
+
+Valor total de las ventas:
+$ 25679000
+
+Venta mínima: $ 548000
+Venta máxima: $ 1059000
+Valor promedio de ventas: $ 802468.75
+Desviación estándar: $ 124936.98020777314
+
+Primer Cuartil: $ 733750.0
+Mediana: $ 797500.0
+Tercer Cuartil: $ 872750.0
+Rango Intercuartil: $ 139000.0
+
+<<<<<<< HEAD
+>>> Reporte:
+En el periodo de ventas comprendido entre 16/01/2023 y 16/02/2023 se obtuvo en total una venta de $25679000 con un promedio de $802468.75 de las cuales el valor minimo de ventas por dia fue de $548000 y el valor de ventas maximo es $1059000, por otra parte la mediana es de $797500.0 dado que la mediana es la que separa en dos partes los datos de la muestra, de lo cual se puede decir que el promedio esta por encima de la mediana lo cual es muy bueno para el restaurante por ultimo se evidenciar que la desviacion estandar es de $124936.98020777314 lo cual se podria decir que en general las ventas fueron muy similares esto se puede inferir por el promedio ya que la resta del promedio y la desviacion da $677531.7697922268 lo cual confirma lo dicho anteriormente, teniendo en cuenta los buenas cifras del restaurante se podria concluir que es un muy buen negocio y tiene futuro podria montarlo y ganar dinero.
+=======
+>>> Agrega aquí tus comentarios a partir del análisis de los datos.
+>>>>>>> f3557e8a61e9ba6fddb9ddbca576a56392019931
+
